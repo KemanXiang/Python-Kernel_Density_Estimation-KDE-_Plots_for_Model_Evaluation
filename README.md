@@ -1,0 +1,2 @@
+# Python-Kernel_Density_Estimation-KDE-_Plots_for_Model_Evaluation
+Evaluating a Regression Model: Train a simple linear regression model, generate predictions, and visualize the actual vs. predicted distributions using KDE plots. We will use synthetic data to simulate a linear relationship with added noise, then split the data into testing and training sets, and then we will evaluate the model predictions.
